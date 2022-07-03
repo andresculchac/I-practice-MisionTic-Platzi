@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// First the do while eject and after revise
 public class DoWhile {
     public static void main(String[] args) {
         int response = 0;
