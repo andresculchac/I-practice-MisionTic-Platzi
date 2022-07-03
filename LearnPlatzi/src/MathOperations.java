@@ -26,7 +26,7 @@ public class MathOperations {
         // A = πr2
         System.out.println(Math.PI * Math.pow(y,2));
 
-        //Area of a sphere
+        //Area of a sphere  The radio is redundant I implement functions
         // A=4πr2
         System.out.println((4 * Math.PI)*Math.pow(y,2));
 
